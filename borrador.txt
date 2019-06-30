@@ -1,0 +1,24 @@
+Nuevo juego
+------primer round
+    Genera número aleatorio
+        Número aleatorio se guarda en el arreglo
+            Click en un color
+                Número del color se compara con el número de arreglo
+                    Si el número de color es igual al número aleatorio del arreglo, y es el último número del arreglo
+                        entonces
+------segundo round
+
+    Genera número aleatorio
+        Número aleatorio se guarda en el arreglo, sin eliminar el anterior (push)
+            Click en un color
+                Número del color se compara con el número de arreglo (primer número)
+                    Si el número de color es igual al número aleatorio del arreglo, y ES EL último número del arreglo
+                        sino, PIERDE
+---repite proceso
+                    sino
+                    Si el número de color es igual al número aleatorio del arreglo, pero NO es el último
+            Click en un color 
+                Número aleatorio se compara con el número de arreglo, (siguiente casilla)
+                    Si el número de color es igual al número aleatorio del arreglo, y ES EL último número del arreglo
+                        sino, PIERDE
+------cuarto round              
